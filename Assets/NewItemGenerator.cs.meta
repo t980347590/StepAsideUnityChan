@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1766f4618b083394e970b6bfa1c1e435
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - car: {fileID: 1837603863712550, guid: b86239c237d612a4d9111f2ae5a5d057, type: 2}
+  - coin: {fileID: 1231885718040510, guid: 0681b01cee0de2240be2c6a87b90fd63, type: 2}
+  - cone: {fileID: 1091826335603516, guid: 4bcdcbf2ceb01514b846126086774fad, type: 2}
+  - unitychan: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
